@@ -1,2 +1,1 @@
-# hockey
-TaskGit&amp;GitHub
+# Migthy Ducks Hockey League
